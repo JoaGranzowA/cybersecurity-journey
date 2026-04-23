@@ -42,6 +42,7 @@ Everything is built in the open so others can follow along or give feedback.
 
 ## 📁 Repo Structure
 cybersecurity-journey/
+
 ├── notes/              
 ├── reflections/        
 ├── experiments/        
