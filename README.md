@@ -42,9 +42,9 @@ Everything is built in the open so others can follow along or give feedback.
 
 ## 📁 Repo Structure
 cybersecurity-journey/
-├── notes/              # Study notes per certification
-├── reflections/        # Weekly / monthly learning reflections
-├── experiments/        # Small scripts and experiments
+├── notes/              
+├── reflections/        
+├── experiments/        
 └── README.md
 
 ## 🏆 Certifications
