@@ -19,7 +19,7 @@ Everything is built in the open so others can follow along or give feedback.
 | 3 | Detection engineering + MITRE ATT&CK + Atomic Red Team | AZ-104 |
 | 4 | Security operations + Python for SecOps | SC-200 (in progress) |
 | 5 | SOC operations + general security fundamentals | SC-200 + Security+ |
-| 6 | Multi-cloud security + Azure security engineering | AWS CLF + AZ-500 (in progress) |
+
 
 ## 🛠️ Tech Stack I'm Learning
 
@@ -56,8 +56,8 @@ cybersecurity-journey/
 | AZ-104 Microsoft Azure Administrator | ⏳ Planned | Month 3 |
 | SC-200 Microsoft Security Operations Analyst | ⏳ Planned | Month 5 |
 | CompTIA Security+ | ⏳ Planned | Month 5 |
-| AWS Certified Cloud Practitioner | ⏳ Planned | Month 6 |
-| AZ-500 Microsoft Azure Security Engineer | ⏳ Planned | Month 7 |
+| AWS Certified Cloud Practitioner | 🔒 | Post-hire |
+| AZ-500 Microsoft Azure Security Engineer | 🔒 | Post-hire |
 
 ## 📖 Background
 
@@ -72,4 +72,4 @@ cybersecurity-journey/
 
 ---
 
-*Last updated: April 23, 2026*
+*Last updated: April 24, 2026*
