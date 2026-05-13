@@ -62,7 +62,7 @@ cybersecurity-journey/
 ## 📖 Background
 
 - Computer Engineering student (Chile)
-- 6 months of IT helpdesk experience
+- 4 months of IT helpdesk experience
 - Building cybersecurity skills full-time to transition into the field
 - English C2 certified
 
@@ -72,4 +72,4 @@ cybersecurity-journey/
 
 ---
 
-*Last updated: April 24, 2026*
+*Last updated: May 12, 2026*
